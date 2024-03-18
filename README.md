@@ -1,4 +1,4 @@
-# File_listing_app
+# Movies_listing_app
 
 ### Tech-Stack used:
 * Python
